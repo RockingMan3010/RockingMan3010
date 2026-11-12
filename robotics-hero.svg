@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+<title id="title">I build robots. Dhruv Mistry</title><desc id="desc">Dark graphite portfolio banner with lime typography and a smiling robot with lime eyes.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070a0d"/><stop offset="1" stop-color="#111b19"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#a9ff54" stop-opacity=".16"/><stop offset="1" stop-color="#a9ff54" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#93b6ab" stroke-opacity=".12"/></pattern>
+</defs>
+<rect x="1" y="1" width="958" height="278" rx="16" fill="url(#bg)" stroke="#283a35"/>
+<rect x="1" y="1" width="958" height="278" rx="16" fill="url(#grid)"/>
+<ellipse cx="770" cy="144" rx="175" ry="126" fill="url(#glow)"/>
+<path d="M48 53h22l11-11h81m404 175h59l18-18h42m164-143h36l17 17h29" fill="none" stroke="#a9ff54" stroke-opacity=".47"/>
+<g fill="#b1ff67"><circle cx="48" cy="53" r="3"/><circle cx="162" cy="42" r="3"/><circle cx="566" cy="217" r="3"/><circle cx="931" cy="73" r="3"/></g>
+<text x="48" y="94" fill="#b1ff67" font-family="monospace" font-size="18" letter-spacing="3">DHRUV MISTRY / ROBOTICS</text>
+<text x="44" y="159" fill="#f1f5f3" font-family="Arial,sans-serif" font-weight="900" font-size="65">I BUILD <tspan fill="#b1ff67">ROBOTS.</tspan></text>
+<text x="48" y="199" fill="#c4d3ce" font-family="Arial,sans-serif" font-size="19">ROS 2  ·  COMPUTER VISION  ·  EMBEDDED SYSTEMS</text>
+<g transform="translate(761 143)">
+ <circle r="109" fill="none" stroke="#8ed96c" stroke-opacity=".18" stroke-dasharray="3 6"/><circle r="94" fill="none" stroke="#8ed96c" stroke-opacity=".28"/>
+ <path d="M-81-29l-15 15v31l15 13m162-59 15 15v31L81 30" fill="none" stroke="#8ac4a2" stroke-width="2.5"/>
+ <path d="M-38-50l13-26h50l13 26" fill="#172621" stroke="#b1ff67" stroke-width="1.5"/>
+ <path d="M0-76v-23" stroke="#b1ff67" stroke-width="2"/><circle cy="-100" r="5.5" fill="#b1ff67"/>
+ <rect x="-81" y="-51" width="162" height="119" rx="23" fill="#202e2a" stroke="#b1ff67" stroke-width="2"/>
+ <rect x="-61" y="-33" width="122" height="77" rx="16" fill="#091114" stroke="#416b5f" stroke-width="1.2"/>
+ <path d="M-51-19H51m-102 49H51M-32-31v73m64-73v73" stroke="#8ac4a2" stroke-opacity=".1"/>
+ <g fill="#b1ff67"><rect x="-41" y="-8" width="32" height="13" rx="6.5"/><rect x="9" y="-8" width="32" height="13" rx="6.5"/></g>
+ <path d="M-11 21q11 6 22 0" fill="none" stroke="#b1ff67" stroke-linecap="round" stroke-width="2"/>
+ <path d="M-35 68v18m70-18v18" stroke="#779d8b" stroke-width="6"/>
+ <rect x="-49" y="86" width="98" height="15" rx="7.5" fill="#132622" stroke="#638e65"/>
+</g></svg>
